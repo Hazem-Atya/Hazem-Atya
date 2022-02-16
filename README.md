@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My name is Hazem Atya, I'm a software engineering student at INSAT
-
+<!-- #I'm the ambassador of TME Education program in Tunisia -->
 <!--
 **Hazem-Atya/Hazem-Atya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
