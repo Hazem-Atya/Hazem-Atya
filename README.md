@@ -18,7 +18,7 @@ I'm a computer science enthusiast and I'm currently the ambassador of TME educat
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="arduino" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/1200px-Red_Hat_logo.svg.png" alt="Redhat" height="40" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://logojinni.com/image/logos/mysql-501.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 
 </p> 
