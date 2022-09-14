@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### My name is Hazem Atya, I'm a software engineering student at INSAT.
-I'm a computer science enthusiast and I'm currently the ambassador of TME education program in Tunisia.
-
+I'm a fullstack developer and a DevOps enthusiast.
 ## Languages and tools
 <p align="center">
 
