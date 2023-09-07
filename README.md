@@ -1,6 +1,5 @@
 ### Hi there 👋
 #### My name is Hazem Atya, I'm a Junior Software Engineer.
-I'm a fullstack developer and a DevOps enthusiast.
 ## Languages and tools
 <p align="center">
 
